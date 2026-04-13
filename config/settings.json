@@ -1,0 +1,19 @@
+{
+  "linkedin_email": "your_email@gmail.com",
+  "linkedin_password": "your_linkedin_password",
+  "gmail_user": "your_email@gmail.com",
+  "gmail_app_password": "your_gmail_app_password",
+  "cookie_path": "config/cookies.json",
+  "alert_frequency": "Daily",
+  "headless": false,
+  "request_delay_seconds": 4,
+  "notification": {
+    "enabled": true,
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "your_email@gmail.com",
+    "sender_password": "your_gmail_app_password",
+    "recipient_email": "your_email@gmail.com"
+  },
+  "log_level": "INFO"
+}

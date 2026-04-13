@@ -1,0 +1,89 @@
+{
+  "job_title": "Data Engineer",
+  "locations": {
+    "London, United Kingdom": [
+      "Google", "Amazon", "Apple", "Meta", "Microsoft", "Bloomberg",
+      "Citadel", "Spotify", "Snapchat", "ByteDance", "Yelp", "Vercel",
+      "Bulb", "Mobiquity", "Expensify", "Free Now", "Marks & Spencer",
+      "EF Education First", "Contentful", "Canva", "Intercom",
+      "The LEGO Group", "Plaid", "TransferWise", "Palantir Technologies",
+      "Algolia", "Revolut", "PayFit", "SumUp", "Trainline", "Deliveroo",
+      "Collibra", "HashiCorp", "OneFootball", "Barclays", "Skyscanner",
+      "GoCardless", "DRW"
+    ],
+    "Berlin, Germany": [
+      "Amazon", "Google", "Zalando", "Ubisoft", "Klarna", "Delivery Hero",
+      "Adnymics", "Hive.app", "N26", "Signavio", "Wayfair", "Free Now",
+      "Trivago", "Babbel", "Personio", "RapidAPI", "HelloFresh", "PayFit",
+      "SumUp", "Taxfix", "Blinkist", "SoundCloud", "Pitch", "Qonto",
+      "Gorillas", "HashiCorp", "Project44", "TradeRepublic",
+      "Immobilienscout24", "Clark", "Forto", "Raisin", "InVision",
+      "Tipico", "Container xChange", "Sunday", "Celus", "Civey GmbH",
+      "Back Market", "NavVis", "e-bot7", "Bigpoint", "Fashion Cloud",
+      "Flaconi", "OneFootball", "Jam City", "Mister Spex", "Getir",
+      "Capmo", "Project Plato", "Contentful", "Oviva"
+    ],
+    "Amsterdam, Netherlands": [
+      "Databricks", "Uber", "Optiver", "Vercel", "Booking.com",
+      "Mobiquity", "Miro", "Plaid", "SumUp", "Gorillas", "HashiCorp",
+      "Fashion Cloud", "Reaktor", "Evalan", "Picnic Technologies",
+      "Adidas", "Project Plato"
+    ],
+    "Dublin, Ireland": [
+      "Microsoft", "Amazon", "Vercel", "Verizon Connect", "Free Now",
+      "Intercom", "Meta", "Squarespace", "Datadog", "Etsy",
+      "Contentful"
+    ],
+    "Luxembourg": [
+      "Amazon"
+    ],
+    "Glasgow, Scotland": [
+      "JPMC"
+    ],
+    "Warsaw, Poland": [
+      "Google", "Glovo"
+    ],
+    "Zurich, Switzerland": [
+      "EF Education First"
+    ],
+    "Riga, Latvia": [
+      "Swisscom"
+    ],
+    "Stockholm, Sweden": [
+      "Spotify", "Diet Doctor"
+    ],
+    "Italy": [
+      "Bending Spoons", "Amazon"
+    ],
+    "Austria": [
+      "Agentur Loop"
+    ],
+    "Paris, France": [
+      "BlaBlaCar", "Getaround", "Datadog", "Deezer"
+    ],
+    "Singapore": [
+      "ByteDance", "Shopee", "Grab", "Gojek", "Ninja Van",
+      "Foodpanda", "Zendesk", "Circles.Life"
+    ],
+    "Japan": [
+      "Mercari", "Fast Retailing", "Line Corporation"
+    ],
+    "Bangkok, Thailand": [
+      "Agoda"
+    ],
+    "Australia": [],
+    "South Africa": [
+      "Amazon"
+    ],
+    "Canada": [
+      "Amazon", "Meta", "Microsoft", "Google", "Capital One",
+      "Square", "Shopify"
+    ],
+    "Spain": [
+      "Amazon", "Taxfix", "Blinkist", "Kiwi.com", "Skyscanner"
+    ],
+    "Estonia": [
+      "Bolt", "TransferWise"
+    ]
+  }
+}
