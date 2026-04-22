@@ -55,6 +55,10 @@ htmlcov/
 .env.local
 .env.*.local
 
+# Configuration files
+config/settings.json
+
 # OS files
 .DS_Store
 Thumbs.db
+config/settings.json

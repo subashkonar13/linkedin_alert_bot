@@ -1,0 +1,17 @@
+{
+  "Google::London, United Kingdom": {
+    "status": "failed",
+    "reason": "Could not apply company filter",
+    "timestamp": "2026-04-22T08:36:15.305478"
+  },
+  "Amazon::London, United Kingdom": {
+    "status": "failed",
+    "reason": "Could not apply company filter",
+    "timestamp": "2026-04-22T08:37:26.358903"
+  },
+  "Apple::London, United Kingdom": {
+    "status": "failed",
+    "reason": "Could not apply company filter",
+    "timestamp": "2026-04-22T08:38:40.536640"
+  }
+}
